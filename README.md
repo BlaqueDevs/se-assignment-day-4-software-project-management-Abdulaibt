@@ -6,7 +6,7 @@
 how can project managers ensure that deadlines are met?
 Project managers can take several steps to ensure that deadlines are met:
 
-1. **Clear Planning**: Develop a detailed project plan that outlines tasks, timelines, and milestones. Use Gantt charts or project management software to visualize the schedule.
+1. **Objective Planning**: Develop a detailed project plan that outlines tasks, timelines, and milestones. Use Gantt charts or project management software to visualize the schedule.
 
 2. **Set Realistic Deadlines**: Estimate timeframes based on team capacity, complexity of tasks, and past project experiences to ensure deadlines are achievable.
 
